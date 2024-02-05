@@ -1,0 +1,238 @@
+WorkbookID,SheetID,RowID,Process,Commodity,Year,Scenario,Indicator,SATIMGE,Sector,Subsector,Subsubsector,TechDescription,IPCC_Category_L1,IPCC_Category_L2,IPCC_Category_L3,IPCC_Category_L4,Description,Short Description,Commodity_Name,TargetUnit
+1,14,25,,,,,,,,,,,,,,,,,,
+1,14,26,,,,,,,,,,,,,,,,,,
+1,14,27,,,,,,,,,,,,,,,,,,
+1,14,28,,,,,,,,,,,,,,,,,,
+1,14,29,,,,,,,,,,,,,,,,,,
+1,14,30,,,,,,,,,,,,,,,,,,
+1,14,31,,,,,,,,,,,,,,,,,,
+1,14,32,,,,,,,,,,,,,,,,,,
+1,14,33,,,,,,,,,,,,,,,,,,
+1,14,34,,,,,,,,,,,,,,,,,,
+1,14,35,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,GVA,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,*,*,USD
+1,14,36,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,GVA,*,*, Food_Bev_Tob30,*,*,*,*,*,*,*,*,*,USD
+1,14,37,`,*,"[2010, 2020, 2030, 2040, 2050]",Reference,GVA,*,*,*,*,*,*,*,*,*,*,Machinery,*,USD
+1,14,38,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,GVA,*,*,"['IndOther', 'Mining2']",*,*,*,*,*,*,*,*,*,USD
+1,14,39,,,,,,,,,,,,,,,,,,
+1,14,40,,,,,,,,,,,,,,,,,,
+1,14,41,,,,,,,,,,,,,,,,,,
+1,14,42,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Coal,*,EJ
+1,14,43,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Anthracite,*,EJ
+1,14,44,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Lignite,*,EJ
+1,14,45,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Coke ,*,EJ
+1,14,46,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Petroleum coke,*,EJ
+1,14,47,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Kerosene,*,EJ
+1,14,48,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Diesel,*,EJ
+1,14,49,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,HFO,*,EJ
+1,14,50,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,LPG,*,EJ
+1,14,51,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Natural Gas Liquids,*,EJ
+1,14,52,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Crude oil or Naptha,*,EJ
+1,14,53,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Gas ,*,EJ
+1,14,54,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,"['Biowood', 'Biomass']",*,EJ
+1,14,55,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Waste,*,EJ
+1,14,56,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Hydrogen,*,EJ
+1,14,57,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Electricity,*,EJ
+1,14,58,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,Others,*,EJ
+1,14,59,,,,,,,,,,,,,,,,,,
+1,14,60,,,,,,,,,,,,,,,,,,
+1,14,61,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Coal,*,Mt
+1,14,62,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Anthracite,*,Mt
+1,14,63,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Lignite,*,Mt
+1,14,64,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Coke ,*,Mt
+1,14,65,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Petroleum coke,*,Mt
+1,14,66,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Kerosene,*,Mt
+1,14,67,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Diesel,*,Mt
+1,14,68,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,HFO,*,Mt
+1,14,69,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,LPG,*,Mt
+1,14,70,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Natural Gas Liquids,*,Mt
+1,14,71,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Crude oil or Naptha,*,Mt
+1,14,72,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Gas ,*,Mt
+1,14,73,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,"['Biowood', 'Biomass']",*,Mt
+1,14,74,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Waste,*,Mt
+1,14,75,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Hydrogen,*,Mt
+1,14,76,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Electricity,*,Mt
+1,14,77,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,Others,*,Mt
+1,14,78,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,79,,,,,,,,,,,,,,,,,,
+1,14,80,,,,,,,,,,,,,,,,,,
+1,14,81,,,,,,,,,,,,,,,,,,
+1,14,82,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Coal,*,EJ
+1,14,83,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Anthracite,*,EJ
+1,14,84,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Lignite,*,EJ
+1,14,85,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Coke ,*,EJ
+1,14,86,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Petroleum coke,*,EJ
+1,14,87,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Kerosene,*,EJ
+1,14,88,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Diesel,*,EJ
+1,14,89,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,HFO,*,EJ
+1,14,90,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,LPG,*,EJ
+1,14,91,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Natural Gas Liquids,*,EJ
+1,14,92,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Crude oil or Naptha,*,EJ
+1,14,93,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Gas ,*,EJ
+1,14,94,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,"['Biowood', 'Biomass']",*,EJ
+1,14,95,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Waste,*,EJ
+1,14,96,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Hydrogen,*,EJ
+1,14,97,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Electricity,*,EJ
+1,14,98,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,Others,*,EJ
+1,14,99,,,,,,,,,,,,,,,,,,
+1,14,100,,,,,,,,,,,,,,,,,,
+1,14,101,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Coal,*,Mt
+1,14,102,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Anthracite,*,Mt
+1,14,103,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Lignite,*,Mt
+1,14,104,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Coke ,*,Mt
+1,14,105,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Petroleum coke,*,Mt
+1,14,106,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Kerosene,*,Mt
+1,14,107,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Diesel,*,Mt
+1,14,108,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,HFO,*,Mt
+1,14,109,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,LPG,*,Mt
+1,14,110,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Natural Gas Liquids,*,Mt
+1,14,111,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Crude oil or Naptha,*,Mt
+1,14,112,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Gas ,*,Mt
+1,14,113,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,"['Biowood', 'Biomass']",*,Mt
+1,14,114,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Waste,*,Mt
+1,14,115,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Hydrogen,*,Mt
+1,14,116,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Electricity,*,Mt
+1,14,117,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,Others,*,Mt
+1,14,118,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,119,,,,,,,,,,,,,,,,,,
+1,14,120,,,,,,,,,,,,,,,,,,
+1,14,121,,,,,,,,,,,,,,,,,,
+1,14,122,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,123,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,124,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,125,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,126,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,127,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,128,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,129,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,130,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,131,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,132,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,133,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,134,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,135,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,136,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,137,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,138,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,139,,,,,,,,,,,,,,,,,,
+1,14,140,,,,,,,,,,,,,,,,,,
+1,14,141,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,142,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,143,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,144,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,145,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,146,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,147,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,148,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,149,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,150,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,151,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,152,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,153,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,154,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,155,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,156,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,157,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,158,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,,,,,,,,,,,,,,
+1,14,159,,,,,,,,,,,,,,,,,,
+1,14,160,,,,,,,,,,,,,,,,,,
+1,14,161,,,,,,,,,,,,,,,,,,
+1,14,162,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Coal,*,EJ
+1,14,163,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Anthracite,*,EJ
+1,14,164,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Lignite,*,EJ
+1,14,165,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Coke ,*,EJ
+1,14,166,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Petroleum coke,*,EJ
+1,14,167,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Kerosene,*,EJ
+1,14,168,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Diesel,*,EJ
+1,14,169,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,HFO,*,EJ
+1,14,170,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,LPG,*,EJ
+1,14,171,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Natural Gas Liquids,*,EJ
+1,14,172,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Crude oil or Naptha,*,EJ
+1,14,173,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Gas ,*,EJ
+1,14,174,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,"['Biowood', 'Biomass']",*,EJ
+1,14,175,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Waste,*,EJ
+1,14,176,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Hydrogen,*,EJ
+1,14,177,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Electricity,*,EJ
+1,14,178,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,IndOther,*,*,*,*,*,*,*,Others,*,EJ
+1,14,179,,,,,,,,,,,,,,,,*,,
+1,14,180,,,,,,,,,,,,,,,,,,
+1,14,181,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Coal,*,Mt
+1,14,182,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Anthracite,*,Mt
+1,14,183,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Lignite,*,Mt
+1,14,184,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Coke ,*,Mt
+1,14,185,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Petroleum coke,*,Mt
+1,14,186,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Kerosene,*,Mt
+1,14,187,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Diesel,*,Mt
+1,14,188,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,HFO,*,Mt
+1,14,189,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,LPG,*,Mt
+1,14,190,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Natural Gas Liquids,*,Mt
+1,14,191,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Crude oil or Naptha,*,Mt
+1,14,192,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Gas ,*,Mt
+1,14,193,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,"['Biowood', 'Biomass']",*,Mt
+1,14,194,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Waste,*,Mt
+1,14,195,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Hydrogen,*,Mt
+1,14,196,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Electricity,*,Mt
+1,14,197,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,Others,*,Mt
+1,14,198,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,IndOther,*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,199,,,,,,,,,,,,,,,,,,
+1,14,200,,,,,,,,,,,,,,,,,,
+1,14,201,,,,,,,,,,,,,,,,,,
+1,14,202,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,*,*,*,*,*,*,EJ
+1,14,203,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,*,*,EJ
+1,14,204,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,Machinery and transport equipment,*,*,*,*,*,*,*,*,*,EJ
+1,14,205,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['IndOther','Mining2']",*,*,*,*,*,*,*,*,*,EJ
+1,14,206,,,,,,,,,,,,,,,,,,
+1,14,207,,,,,,,,,,,,,,,,,,
+1,14,208,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Coal,*,EJ
+1,14,209,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Anthracite,*,EJ
+1,14,210,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Lignite,*,EJ
+1,14,211,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Coke ,*,EJ
+1,14,212,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Petroleum coke,*,EJ
+1,14,213,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Kerosene,*,EJ
+1,14,214,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Diesel,*,EJ
+1,14,215,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,HFO,*,EJ
+1,14,216,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,LPG,*,EJ
+1,14,217,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Natural Gas Liquids,*,EJ
+1,14,218,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Crude oil or Naptha,*,EJ
+1,14,219,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Gas ,*,EJ
+1,14,220,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,"['Biowood', 'Biomass']",*,EJ
+1,14,221,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Waste,*,EJ
+1,14,222,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Hydrogen,*,EJ
+1,14,223,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Electricity,*,EJ
+1,14,224,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,FlowIn,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,*,*,*,*,Others,*,EJ
+1,14,225,,,,,,,,,,,,,,,,*,,
+1,14,226,,,,,,,,,,,,,,,,,,
+1,14,227,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,228,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,"['CH4', 'N2O']",*,Industry,"['Mining2', 'PGM', 'PNFMetals352', 'Food_Bev_Tob30', 'IndOther']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,229,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,*,*,*,*,"['2D Non-energy products from fuels and solvent use','2F Product uses as substitutes for ozone depleting substances']",*,*,*,*,*,Mt
+1,14,230,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,"['CH4', 'N2O']",*,Industry,*,*,*,*,"['2D Non-energy products from fuels and solvent use','2F Product uses as substitutes for ozone depleting substances']",*,*,*,*,*,Mt
+1,14,231,,,,,,,,,,,,,,,,,,
+1,14,232,,,,,,,,,,,,,,,,,,
+1,14,233,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,234,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,235,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,Machinery and transport equipment,*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,236,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,Industry,"['IndOther','Mining2']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,237,,,,,,,,,,,,,,,,,,
+1,14,238,,,,,,,,,,,,,,,,,,
+1,14,239,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,"['CH4', 'N2O']",*,Industry,"['PGM', 'PNFMetals352']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,240,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,"['CH4', 'N2O']",*,Industry,Food_Bev_Tob30,*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,241,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,"['CH4', 'N2O']",*,Industry,Machinery and transport equipment,*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,242,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,"['CH4', 'N2O']",*,Industry,"['IndOther','Mining2']",*,*,*,1A Fuel Combustion Activities,*,*,*,*,*,Mt
+1,14,243,,,,,,,,,,,,,,,,,,
+1,14,244,,,,,,,,,,,,,,,,,,
+1,14,245,,,,,,,,,,,,,,,,,,
+1,14,246,,,,,,,,,,,,,,,,,,
+1,14,247,,,,,,,,,,,,,,,,,,
+1,14,248,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2,*,*,*,*,*,*,"['2D Non-energy products from fuels and solvent use','2F Product uses as substitutes for ozone depleting substances']",*,*,*,*,*,Mt
+1,14,249,,,,,,,,,,,,,,,,,,
+1,14,250,,,,,,,,,,,,,,,,,,
+1,14,251,,,,,,,,,,,,,,,,,,
+1,14,252,,,,,,,,,,,,,,,,,,
+1,14,253,,,,,,,,,,,,,,,,,,
+1,14,254,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2eq,*,*,*,*,*,*,"['2D Non-energy products from fuels and solvent use','2F Product uses as substitutes for ozone depleting substances']",*,*,*,*,*,Mt
+1,14,255,,,,,,,,,,,,,,,,,,
+1,14,256,,,,,,,,,,,,,,,,,,
+1,14,257,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2CAPT,*,Industry,"['Mining2', 'PGM', 'PNFMetals352']",*,*,*,*,*,*,*,*,*,Mt
+1,14,258,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2CAPT,*,Industry,Food_Bev_Tob30,*,*,*,*,*,*,*,*,*,Mt
+1,14,259,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2CAPT,*,Industry,Machinery and transport equipment,*,*,*,*,*,*,*,*,*,Mt
+1,14,260,*,*,"[2010, 2020, 2030, 2040, 2050]",Reference,CO2CAPT,*,Industry,IndOther,*,*,*,*,*,*,*,*,*,Mt
+1,14,261,,,,,,,,,,,,,,,,,,
